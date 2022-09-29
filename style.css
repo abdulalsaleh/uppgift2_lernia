@@ -1,0 +1,30 @@
+.container {
+    border: 3px black solid;
+    width: 30%;
+}
+#newLi{
+   color: blue;
+   cursor:pointer
+}
+.childDiv{
+    width: 40%;
+    
+
+}
+.lidiv{
+    display: flex;
+    justify-content:space-between;
+    
+  
+}
+ul{
+    width: 60%;
+}
+#icon:hover{
+    color: red;
+}
+#icon1:hover{
+    color: green;
+}
+
+
